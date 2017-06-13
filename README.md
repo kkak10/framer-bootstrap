@@ -1,5 +1,10 @@
 # framer-bootstrap
 
+## Framer Library Version
+67e7f9e
+
+[Framer Library Version List](https://builds.framerjs.com/)
+
 ![framer-bootstrap screenshot](https://cloud.githubusercontent.com/assets/604167/14765101/cff41b58-0986-11e6-9263-b00a186bdf6b.jpg)
 
 This project is meant to get you started with [Framer.js](https://framerjs.com/docs/) as quickly as possible.
